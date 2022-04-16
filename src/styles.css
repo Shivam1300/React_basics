@@ -1,0 +1,29 @@
+.form {
+  font-family: sans-serif;
+  /* text-align: center; */
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  padding: 5px;
+}
+#email{
+  
+}
+#i1{
+  margin-top: 5px;
+  background-color: aqua;
+  display: flex;
+  margin-bottom: 5px;
+}
+#i2{
+  margin-top: 5px;
+  background-color:aqua;
+  display: flex;
+}
+#button{
+  margin-top: 10px;
+  border-radius: 10px;
+  background-color: cornsilk;
+   
+}
+
